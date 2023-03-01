@@ -1,0 +1,60 @@
+* {
+    color: black;
+}
+p {
+    color: black;
+    width: 300px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+
+}
+h1 {
+  font-family: 'Courier Prime', monospace;
+  border: 5px solid pink;
+  display: inline-block;
+  min-width: 50px;
+  max-width: 400px;
+  text-align: left
+  margin-bottom 30px; 
+  padding: 0;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    min-width: 80px;
+    max-width: 250px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  h3 {
+    font-family: 'Oswald', sans-serif;
+    min-width: 100px;
+    max-width: 300px;
+    text-align: left;
+    font-weight: bold;
+    color: black;
+    margin: 0;
+    padding: 5px;
+  }
+  
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  .hidden {
+    display: none;
+  }
+  .show {
+    display: block;
+  }
